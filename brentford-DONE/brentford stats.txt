@@ -1,4 +1,3 @@
-wissa - 82/31  ST
 damsgaard - 80/22  CAM
 henderson - 66/79 CM    LEADER
 kelleher - 79   gk
@@ -14,7 +13,8 @@ henry - 63/76  LB
 ajer - 41/75  CB
 thiago - 75/44   st
 nelson - 75/27 LW
-onyeka - 74/55 CM
+onyeka - 74/69 CM
 hickey - 52/74 lb
 carvalho - 74/24  CAM
 milambo - 73/40  cam
+gustavo - 75/22 LW      potential
