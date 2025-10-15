@@ -1,20 +1,20 @@
-bowen - 83        leader
-aguerd - 81
-paqueta - 80       trickster
-bissaka - 80
-fullkrug - 79
-soucek - 78
-todibo - 78
-wilson - 78
+bowen - 83  rw       leader
+paqueta - 80  cam     trickster
+bissaka - 80  rb
+fullkrug - 79  st
+soucek - 78  cdm
+todibo - 78  cb
+wilson - 78  st
 areola - 77    gk
-emerson - 78
-prowse - 77
-rodriguez - 77
-killman - 77
-mavropanos - 76
-summerville - 76        potential
+prowse - 77    cm
+rodriguez - 77  cdm
+killman - 77  cb
+mavropanos - 76  cb
+summerville - 76 lw       potential
 hermansen - 76   gk
-fernandes - 76
-igor - 76
-diouf - 75
-peters - 75
+fernandes - 76  cm     POTENTIAL
+igor - 76  cb
+peters - 75  rb
+diouf - 75  lb
+guilherme - 74  rw    potential
+marshall - 74  st

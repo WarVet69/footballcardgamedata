@@ -1,20 +1,20 @@
-agbadou - 79
-silva - 79
-arokodare - 79
-arias - 78
-gomes - 78         leader
-andre - 78
-larsen - 78
-krejci - 78
+agbadou - 79    cb
+arokodare - 79   st
+arias - 78   rw
+gomes - 78   cm        leader
+andre - 78    cdm
+larsen - 78    st
+krejci - 78  cb
 sa - 77        gk
-bueno - 76
-munetsi - 76
+bueno - 76  cb
+munetsi - 76   cm
 johnstone - 76    gk
-bellegarde - 75         trickster
-Hwang - 75
-tote - 75
-tchatchoua - 74
-doherty - 74
-bueno - 74
-hoever - 74              potential
-kalajdzic - 74
+lopez - 76  cm       potential
+bellegarde - 75   cm      trickster
+Hwang - 75   lw
+toti - 75  cb
+tchatchoua - 74  rb
+doherty - 74  rb
+hugo - 74  lb
+hoever - 74  rb          
+kalajdzic - 74  st

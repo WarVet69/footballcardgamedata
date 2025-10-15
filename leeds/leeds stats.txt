@@ -1,20 +1,20 @@
-perri - 81
-stach - 79
-bijol - 77
-gudmundsson - 77
-rodon - 76
-tanaka - 76
-nmecha - 76
-struijk - 76
-james - 76
-okafor - 76     st     trickster
+perri - 81  gk
+stach - 79   cdm
+bijol - 77   cb
+gudmundsson - 77  lb
+rodon - 76  cb
+tanaka - 76   cm
+nmecha - 76   cf
+struijk - 76   cb
+james - 76  rw
+okafor - 76     lw    trickster
 ampadu - 76  cdm      leader
-bogle - 75
-piroe - 75
+bogle - 75    rb
+piroe - 75   st
 longstaff - 75  cm
-aaronson - 74
+aaronson - 74   cam
 gnonto - 74   rw       potential
-gruev - 74
-ramazani - 74
-harrison - 74   st
-lewin - 74
+gruev - 74   cdm
+ramazani - 74  lw
+harrison - 74   lw
+lewin - 74  st

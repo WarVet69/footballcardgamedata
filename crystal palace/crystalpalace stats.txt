@@ -1,20 +1,20 @@
-guehi - 82   cb    pantheon
-mateta - 82  st
-henderson - 81  cdm    leader
-munoz - 81
-pino - 80
-wharton - 79   cdm     potential
-benitez - 79
-sarr - 79   cam
-lacroix - 79  cb
-mitchell - 78   lb
-richards - 77
-lerma - 77
-kamada - 77
-doucoure - 77   cdm
-hughes - 77
-uche - 76
-nketiah - 74  st     potential
-sosa - 73
-edouard - 72   st
-sakyi - 72
+guehi - 55/82   cb    pantheon
+mateta - 82/49  st
+henderson - 64/81  cdm    leader
+munoz - 81/55     rb
+pino - 80/33    rw
+wharton - 74/79   cdm     potential
+benitez - 79    gk
+sarr - 79/20   rw
+lacroix - 36/79  cb
+mitchell - 60/78   lb
+richards - 44/77   cb
+lerma - 58/77    cdm
+kamada - 77/33   cam
+doucoure - 37/77   cdm
+hughes - 68/77     cm
+uche - 76/24     st
+nketiah - 74/22  st     potential
+sosa - 43/73    lb
+edouard - 72/36   st
+sakyi - 72/58   cm 

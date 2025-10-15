@@ -1,22 +1,22 @@
 pickford - 84  gk  iron wall
-grealish - 80    lw    trickster
-tarkowski - 80     cb     pantheon
-ndiaye - 79
-gueye - 79
-branthwaite - 79  cb
-mcneil - 78
-mykolenko - 78   lb
-barry - 77
-hall - 77   lb
-bentuncal - 76
-garner - 76   cdm
-o' brien - 76
-alcarez - 75
-iroegbunam - 74
-rohl - 74
-dibling - 74   rw          potential
-keane - 73  cb
-travers - 72
-coleman - 70  rb          leader
+grealish - 80/30    lw    trickster
+tarkowski - 40/80     cb     pantheon
+ndiaye - 79/29   rw
+gueye - 64/79    cdm
+branthwaite - 55/79  cb
+mcneil - 78/34    lw
+mykolenko - 70/78   lb
+barry - 77/20  st
+hall - 66/77   lb
+beto - 76/42   st
+garner - 42/76   cdm
+o' brien - 33/76   rb
+alcarez - 54/75   cm
+iroegbunam - 62/74    cm        potential
+rohl - 74/36  cam
+dibling - 74/22   rw          potential
+keane - 46/73  cb
+travers - 72  gk
+coleman - 50/70  rb          leader
 
 

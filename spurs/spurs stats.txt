@@ -11,11 +11,11 @@ kudus - 80   lw
 udogie - 80   lb
 bentancur - 80   cm
 solanke - 80   st
-sarr - 79
-johnson - 79
-danso - 79
-spence - 78
-bissouma - 78
+sarr - 79   cm
+johnson - 79  rw
+danso - 79  cb
+spence - 78  lb
+bissouma - 78  cdm
 richarlison - 78  st   trickster
 gil - 78    st      potential
 
