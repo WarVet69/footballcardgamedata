@@ -1,20 +1,20 @@
-xhaka - 85  cdm   leader
-reinildo - 79  lb
-mukiele - 79  cb
-alderete - 78  cb
-geertruida - 78    rb   
-diarra - 77  cm
-brobbey - 77  st
-le fee - 76  cm
-adingra - 76  lw         potential
-masuaku - 75  lb
-traore - 75   rw
+xhaka - 60/85  cdm   leader
+reinildo - 68/79  lb
+mukiele - 39/79  cb
+alderete - 37/78  cb
+geertruida - 68/78    rb   
+diarra - 67/77  cm
+brobbey - 77/27  st
+le fee - 76/66  cm
+adingra - 76/25  lw         potential
+masuaku - 44/75  lb
+traore - 75/26   rw
 roefs - 74   gk
-sadiki - 74  cm
-hume - 74   rb
-talbi - 73  rw
-neil - 73  cm
+sadiki - 74/55  cm
+hume - 52/74   rb
+talbi - 73/26  rw
+neil - 60/73  cm
 patterson - 73  GK
-ballard - 73  cb
-mayenda - 73 st       potential
-cirkin - 72  lb
+ballard - 46/73  cb
+mayenda - 73/33 st       potential
+cirkin - 47/72  lb

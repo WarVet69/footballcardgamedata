@@ -1,20 +1,20 @@
 perri - 81  gk
-stach - 79   cdm
-bijol - 77   cb
-gudmundsson - 77  lb
-rodon - 76  cb
-tanaka - 76   cm
-nmecha - 76   cf
-struijk - 76   cb
-james - 76  rw
-okafor - 76     lw    trickster
-ampadu - 76  cdm      leader
-bogle - 75    rb
-piroe - 75   st
-longstaff - 75  cm
-aaronson - 74   cam
-gnonto - 74   rw       potential
-gruev - 74   cdm
-ramazani - 74  lw
-harrison - 74   lw
-lewin - 74  st
+stach - 60/79   cdm
+bijol - 30/77   cb
+gudmundsson - 49/77  lb
+rodon - 34/76  cb
+tanaka - 76/66   cm
+nmecha - 76/60   cf
+struijk - 45/76   cb
+james - 76/15  rw
+okafor - 76/20     lw    trickster
+ampadu - 62/76  cdm      leader
+bogle - 61/75    rb
+piroe - 75/23   st
+longstaff - 64/75  cm
+aaronson - 74/26   cam
+gnonto - 74/25   rw       potential
+gruev - 50/74   cdm
+ramazani - 74/18  lw
+harrison - 74/17   lw
+lewin - 74/15  st

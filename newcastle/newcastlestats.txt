@@ -1,23 +1,23 @@
-guimaraes - 86   cdm   world class
-tonali - 86      cm  
-gordon - 83    lw  
-botman - 82   cb       pantheon
-joelinton - 82   cm
-schar - 82  cb
-elanga - 81   rw      trickster
-murphy - 81    rw
+guimaraes - 64/86   cdm   world class
+tonali - 74/86      cm  
+gordon - 83/27    lw  
+botman - 40/82   cb       pantheon
+joelinton - 82/78   cm
+schar - 32/82  cb
+elanga - 81/22   rw      trickster
+murphy - 81/25    rw
 pope - 81   gk
-hall - 80    lb         
-livramento - 80  rb
-barnes - 80    lw
-trippier - 80   rb
-burn - 79   cb
-woltemade - 79  st     potential
-thiaw - 78   cb
+hall - 67/80    lb         
+livramento - 70/80  rb
+barnes - 80/20    lw
+trippier - 66/80   rb
+burn - 34/79   cb
+woltemade - 79/40  st     potential
+thiaw - 50/78   cb
 ramsdale - 77  gk
-willock - 76   cm
-lascelles - 73   cb     leader
-krafth - 73   rb
+willock - 76/69   cm
+lascelles - 46/73   cb     leader
+krafth - 49/73   rb
 
 
 

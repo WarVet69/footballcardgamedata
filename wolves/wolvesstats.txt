@@ -1,20 +1,20 @@
-agbadou - 79    cb
-arokodare - 79   st
-arias - 78   rw
-gomes - 78   cm        leader
-andre - 78    cdm
-larsen - 78    st
-krejci - 78  cb
+agbadou - 40/79    cb
+arokodare - 79/26   st
+arias - 78/22   rw
+gomes - 78/70   cm        leader
+andre - 63/78    cdm
+larsen - 78/23    st
+krejci - 33/78  cb
 sa - 77        gk
-bueno - 76  cb
-munetsi - 76   cm
+bueno - 39/76  cb
+munetsi - 76/65   cm
 johnstone - 76    gk
-lopez - 76  cm       potential
-bellegarde - 75   cm      trickster
-Hwang - 75   lw
-toti - 75  cb
-tchatchoua - 74  rb
-doherty - 74  rb
-hugo - 74  lb
-hoever - 74  rb          
-kalajdzic - 74  st
+lopez - 76/60  cm       potential
+bellegarde - 75/47   cm      trickster
+Hwang - 75/33   lw
+toti - 47/75  cb
+tchatchoua - 57/74  rb
+doherty - 50/74  rb
+hugo - 47/74  lb
+hoever - 60/74  rb          
+kalajdzic - 74/36  st

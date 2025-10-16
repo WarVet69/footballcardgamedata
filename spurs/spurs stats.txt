@@ -1,21 +1,21 @@
-maddison - 84    cam
-simons - 84     cam    trickster
-kulusevski - 83   rw
-palhinha - 83    cdm
-porro - 82    rb
+maddison - 84/25    cam
+simons - 84/18     cam    trickster
+kulusevski - 83/50   rw
+palhinha - 40/83    cdm
+porro - 73/82    rb
 vicario - 82   gk         
-de ven - 82   cb      pantheon
-romero - 82   cb      leader
-muani - 81    st
-kudus - 80   lw
-udogie - 80   lb
-bentancur - 80   cm
-solanke - 80   st
-sarr - 79   cm
-johnson - 79  rw
-danso - 79  cb
-spence - 78  lb
-bissouma - 78  cdm
-richarlison - 78  st   trickster
-gil - 78    st      potential
+de ven - 66/82   cb      pantheon
+romero - 30/82   cb      leader
+muani - 81/22    st
+kudus - 80/31   lw
+udogie - 47/80   lb
+bentancur - 80/60   cm
+solanke - 80/38   st
+sarr - 79/40   cm
+johnson - 79/30  rw
+danso - 40/79  cb
+spence - 60/78  lb
+bissouma - 61/78  cdm
+richarlison - 78/29  st   trickster
+gray -  55/75  rb       potential
 

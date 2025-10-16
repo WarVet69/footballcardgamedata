@@ -1,20 +1,20 @@
-bowen - 83  rw       leader
-paqueta - 80  cam     trickster
-bissaka - 80  rb
-fullkrug - 79  st
-soucek - 78  cdm
-todibo - 78  cb
-wilson - 78  st
+bowen - 83/49  rw       leader
+paqueta - 80/36  cam     trickster
+bissaka - 66/80  rb
+fullkrug - 79/20  st
+soucek - 62/78  cdm
+todibo - 45/78  cb
+wilson - 78/28  st
 areola - 77    gk
-prowse - 77    cm
-rodriguez - 77  cdm
-killman - 77  cb
-mavropanos - 76  cb
-summerville - 76 lw       potential
+prowse - 77/68    cm
+rodriguez - 52/77  cdm
+killman - 40/77  cb
+mavropanos - 37/76  cb
+summerville - 76/23 lw       potential
 hermansen - 76   gk
-fernandes - 76  cm     POTENTIAL
-igor - 76  cb
-peters - 75  rb
-diouf - 75  lb
-guilherme - 74  rw    potential
-marshall - 74  st
+fernandes - 76/54  cm     POTENTIAL
+igor - 44/76  cb
+peters - 60/75  rb
+diouf - 55/75  lb
+guilherme - 74/26  rw    potential
+marshall - 74/20  st

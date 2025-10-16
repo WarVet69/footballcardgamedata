@@ -1,20 +1,20 @@
-milenkovic - 83   cb  pantheon
-murillo - 83    cb
+milenkovic - 53/83   cb  pantheon
+murillo - 46/83    cb
 sels - 83   gk         iron wall
-wood - 82   st
-white - 82  cam  
-anderson - 80   cm       potential
-aina - 80    rb
-luiz - 80     cm
-ndoye - 79     rw
-dominquez - 79   cm
-odoi - 78    lw
-williams - 78  lb
-kalimuendo - 78   st      trickster
-bakwa - 78     rw
-sangare - 77   cdm
-yates - 77    cm       leader
-igor jesus - 77   st
-zinchenko - 77   lb
-mcatee - 76 cam
-savono - 75  rb
+wood - 82/34   st
+white - 82/38  cam  
+anderson - 80/75   cm       potential
+aina - 55/80    rb
+luiz - 49/80     cm
+ndoye - 79/30     rw
+dominquez - 66/79   cm
+odoi - 78/22    lw
+williams - 67/78  lb
+kalimuendo - 78/27   st      trickster
+bakwa - 78/26     rw
+sangare - 58/77   cdm
+yates - 77/68    cm       leader
+igor jesus - 77/40   st
+zinchenko - 70/77   lb
+mcatee - 76/25 cam
+savono - 38/75  rb
