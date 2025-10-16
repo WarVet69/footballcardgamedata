@@ -6,8 +6,8 @@ gueye - 64/79    cdm
 branthwaite - 55/79  cb
 mcneil - 78/34    lw
 mykolenko - 70/78   lb
-barry - 77/20  st
-hall - 66/77   lb
+barry - 77/20  st       POTENTIAL
+hall - 71/77   cm
 beto - 76/42   st
 garner - 42/76   cdm
 o' brien - 33/76   rb
