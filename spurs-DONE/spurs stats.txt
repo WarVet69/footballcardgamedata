@@ -16,6 +16,6 @@ johnson - 79/30  rw
 danso - 40/79  cb
 spence - 60/78  lb
 bissouma - 61/78  cdm
-richarlison - 78/29  st   trickster
-gray -  55/75  rb       potential
+richarlison - 78/29  st   
+gray -  55/75  rb       
 
