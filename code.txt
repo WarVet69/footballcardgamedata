@@ -1,0 +1,450 @@
+ using UnityEngine;
+using static Cards;
+
+public static class Cardloader
+{
+    public static void LoadCards() 
+    {
+	// prem legends
+        SetCard("aguero", "ST", 90, 31);
+        SetCard("beckham", "RM", 89, 44);
+        SetCard("bergkamp", "ST", 89, 45);
+        SetCard("best", "RW", 88, 70);
+        SetCard("cantona", "ST", 93, 27);
+        SetCard("charlton", "CM", 95, 75);
+        SetCard("cole", "LB", 69, 89);
+        SetCard("david_silva", "CAM", 90, 37);
+        SetCard("de_bruyne", "CM", 94, 77);
+        SetCard("drogba", "ST", 89, 30);
+        SetCard("ferdinand", "CB", 58, 93);
+        SetCard("gerrard", "CM", 93, 63);
+        SetCard("giggs", "LW", 90, 45);
+        SetCard("hazard", "LW", 88, 45);
+        SetCard("henry", "ST", 95, 55);
+        SetCard("kane", "ST", 92, 61);
+        SetCard("keane", "CM", 92, 79);
+        SetCard("lampard", "CM", 93, 62);
+        SetCard("ronaldo", "LW", 95, 51);
+        SetCard("rooney", "ST", 95, 42);
+        SetCard("schmeichel", "GK", 0, 87);
+        SetCard("scholes", "CM", 93, 37);
+        SetCard("shearer", "ST", 95, 31);
+        SetCard("terry", "CB", 44, 94);
+        SetCard("vieira", "CM", 84, 88);
+
+	
+	// arsenal
+	SetCard("eze", "CAM", 83, 38);
+	SetCard("gabriel", "CB", 55, 88); 
+	SetCard("gyokeres", "ST", 87, 28);
+	SetCard("havertz", "ST", 82, 26);
+	SetCard("hincapie", "LB", 52, 83);
+	SetCard("jesus", "ST", 80, 22);
+	SetCard("kepa", "GK", 0, 79);
+	SetCard("madueke", "RW", 80, 25);
+	SetCard("martinelli", "LW", 81, 31);
+	SetCard("merino", "CM", 83, 72);
+	SetCard("norgaard", "CDM", 31, 80);
+	SetCard("odegaard", "CAM", 87, 42);
+	SetCard("raya", 0, "GK", 87);
+	SetCard("rice", "CDM", 70, 87);
+	SetCard("saka", "RW", 88, 65);
+	SetCard("saliba", "CB", 66, 87);
+	SetCard("timber", "RB", 46, 82);
+	SetCard("trossard", "LW", 83, 68);
+	SetCard("white_arsenal", "RB", 70, 83);
+	SetCard("zubimendi", "CM", 83, 44);
+
+	
+	//aston villa
+	SetCard("barkley", "CAM", 77, 26);
+	SetCard("bizot", "GK", 0, 78);
+	SetCard("buendia", "CAM", 77, 28);
+	SetCard("cash", "RB", 56, 79);
+	SetCard("digne", "LB", 45, 80);
+	SetCard("elliot", "CAM", 78, 27);
+	SetCard("guessand", "ST", 79, 30);
+	SetCard("kamara", "CDM", 48, 83);
+	SetCard("konsa", "CB", 34, 82);
+	SetCard("maatsen", "LB", 62, 79);
+	SetCard("malen", "ST", 79, 24);
+	SetCard("martinez", "GK", 0, 85);
+	SetCard("mcginn", 81, "CM", 71);
+	SetCard("mings", "CB", 34, 79);
+	SetCard("onana", "CDM", 52, 79);
+	SetCard("rogers", "CAM", 82, 44);
+	SetCard("sancho", "LW", 80, 28);
+	SetCard("tielemans", "CM", 85, 42);
+	SetCard("torres", "CB", 27, 80);
+	SetCard("watkins", "ST", 84, 25);
+
+	
+	//bournemouth
+	SetCard("adams", "CM", 79, 69);
+	SetCard("adli", "LW", 78, 27);
+	SetCard("billing", "CM", 75, 67);
+	SetCard("brooks", "CM", 75, 50);
+	SetCard("christie", "CAM", 79, 29);
+	SetCard("cook", "CM", 66, 79);
+	SetCard("diakite", "CB", 28, 79);
+	SetCard("evanilson", "ST", 80, 22);
+	SetCard("faivre", "RM", 76, 45);
+	SetCard("kluivert", "CAM", 79, 18);
+	SetCard("kroupi", "ST", 74, 37);
+	SetCard("neto", "GK", 0, 76);
+	SetCard("petrovic", "GM", 0, 80);
+	SetCard("scott", "CM", 74, 45);
+	SetCard("semenyo", "RW", 80, 31);
+	SetCard("senesi", "CB", 33, 78);
+	SetCard("tavernier", "LM", 76, 65);
+	SetCard("traore_bournemouth", "CM", 77, 72);
+	SetCard("truffert", "LB", 44, 77);
+	SetCard("unal", "ST", 77, 20);
+
+
+	//brentford
+	SetCard("ajer", "CB", 41, 75);
+	SetCard("berg", "CB", 40, 77);
+	SetCard("carvalho", "CAM", 74, 24);
+	SetCard("collins", "CM", 33, 79);
+	SetCard("damsgaard", "CAM", 80, 22);
+	SetCard("gustavo", "LW", 75, 22);
+	SetCard("henderson", "CM", 66, 79);
+	SetCard("henry", "LB", 63, 76);
+	SetCard("hickey", "LB", 52, 74);
+	SetCard("janelt", "CDM", 52, 76);
+	SetCard("jensen", "CM", 72, 77);
+	SetCard("kelleher", "GK", 0, 79);
+	SetCard("milambo", "CAM", 73, 40);
+	SetCard("nelson", "LW", 75, 27);
+	SetCard("onyeka", "CM", 74, 69);
+	SetCard("ouattara", "LW", 77, 22);
+	SetCard("pinnock", "CB", 34, 77);
+	SetCard("potter", "LW", 76, 73);
+	SetCard("schade", "LW", 78, 34);
+	SetCard("thiago", "ST", 75, 44);
+
+
+	//brighton
+	SetCard("ayari", "CM", 75, 50);
+	SetCard("baleba", "CM", 75, 81);
+	SetCard("boscagli", "CB", 39, 79);
+	SetCard("dunk", "CB", 52, 77);
+	SetCard("hinshelwood", "CDM", 57, 75);
+	SetCard("igor", "CB", 40, 76);
+	SetCard("kadioglu", "LB", 60, 79);
+	SetCard("march", "RW", 75, 60);
+	SetCard("maxim", "LB", 63, 80);
+	SetCard("minteh", "RW", 77, 17);
+	SetCard("mitoma", "LW", 82, 27);
+	SetCard("o'riley", "CM", 67, 78);
+	SetCard("rutter", "ST", 77, 40);
+	SetCard("sima", "LW", 74, 22);
+	SetCard("van hecke", "CB", 50, 80);
+	SetCard("veltman", "RB", 33, 78);
+	SetCard("verbruggen", "GK", 0, 78);
+	SetCard("webster", "CB", 29, 75);
+	SetCard("welbeck", "ST", 78, 44);
+	SetCard("wieffer", "CDM", 50, 78);
+
+
+	//burnley
+	SetCard("amdouni", "ST", 75, 33);
+	SetCard("anthony", "LW", 74, 22);
+	SetCard("beyer", "CB", 38, 74);
+	SetCard("cullen", "CDM", 55, 76);
+	SetCard("dubravka", "GK", 0, 77);
+	SetCard("edwards", "CAM", 76, 26);
+	SetCard("esteve", "CB", 35, 76);
+	SetCard("flemming", "CB", 20, 73);
+	SetCard("florentino", "CDM", 66, 80);
+	SetCard("hannibal", "CAM", 74, 40);
+	SetCard("hartman", "LB", 60, 77);
+	SetCard("humphreys", "CB", 36, 73);
+	SetCard("larsen", "LW", 74, 23);
+	SetCard("laurent", "CM", 66, 73);
+	SetCard("pires", "LB", 40, 74);
+	SetCard("roberts", "RB", 27, 75);
+	SetCard("tuanzebe", "CB", 43, 73);
+	SetCard("ugochukwu", "CDM", 66, 73);
+	SetCard("walker", "RB", 70, 79);
+	SetCard("worrall", "CB", 42, 73);
+
+	
+	//chelsea
+	SetCard("adarabioyo", "CB", 25, 78);
+	SetCard("caicedo", "CDM", 71, 87);
+	SetCard("chalobah", "CB", 57, 79);
+	SetCard("colwill", "CB", 29, 80);
+	SetCard("cucurella", "LB", 63, 84);
+	SetCard("delap", "ST", 78, 44);
+	SetCard("disasi", "CB", 30, 77);
+	SetCard("enzo", "CM", 73, 84);
+	SetCard("estevao", "RW", 78, 24);
+	SetCard("fofana", "CB", 30, 79);
+	SetCard("gittens", "LW", 78, 24);
+	SetCard("gusto", "RB", 62, 79);
+	SetCard("hato", "LB", 67, 78);
+	SetCard("james", "RB", 77, 81);
+	SetCard("lavia", "CDM", 53, 78);
+	SetCard("neto_chelsea", "RW", 80, 22);
+	SetCard("palmer", "CAM", 87, 42);
+	SetCard("pedro", "ST", 79, 50);
+	SetCard("sanchez", "GK", 0, 78);
+	SetCard("santos", "CM", 55, 80);
+
+
+	//crystal palace
+	SetCard("guehi", "CB", 55, 82);
+	SetCard("mateta", "ST", 82, 49);
+	SetCard("henderson_palace", "GK", 0, 81);
+	SetCard("munoz", "RB", 81, 55);
+	SetCard("pino", "RW", 80, 33);
+	SetCard("wharton", "CDM", 74, 79);
+	SetCard("benitez", "GK", 0, 79);
+	SetCard("sarr_palace", "RW", 79, 20);
+	SetCard("lacroix", "CB", 36, 79);
+	SetCard("mitchell", "LB", 60, 78);
+	SetCard("richards", "CB", 44, 77);
+	SetCard("lerma", "CDM", 58, 77);
+	SetCard("kamada", "CAM", 77, 33);
+	SetCard("doucoure", "CDM", 37, 77);
+	SetCard("hughes", "CM", 68, 77);
+	SetCard("uche", "ST", 76, 24);
+	SetCard("nketiah", "ST", 74, 22);
+	SetCard("sosa", "LB", 43, 73);
+	SetCard("edouard", "ST", 72, 36);
+	SetCard("sakyi", "CM", 72, 58);
+
+
+	//everton
+	SetCard("alcarez", "CM", 54, 75);
+	SetCard("barry", "ST", 77, 20);
+	SetCard("beto", "ST", 76, 42);
+	SetCard("branthwaite", "CB", 55, 79);
+	SetCard("coleman", "RB", 50, 70);
+	SetCard("dibling", "RW", 74, 22);
+	SetCard("garner", "CDM", 42, 76);
+	SetCard("grealish", "LW", 80, 30);
+	SetCard("gueye", "CDM", 64, 79);
+	SetCard("hall", "CM", 71, 77);
+	SetCard("iroegbunam", "CM", 62, 74);
+	SetCard("keane", "CB", 46, 73);
+	SetCard("mcneil", "LW", 78, 34);
+	SetCard("mykolenko", "LB", 70, 78);
+	SetCard("ndiaye", "RW", 79, 29);
+	SetCard("o'brien", "RB", 33, 76);
+	SetCard("pickford", "GK", 0, 84);
+	SetCard("rohl", "CAM", 74, 36);
+	SetCard("tarkowski", "CB", 40, 80);
+	SetCard("travers", "GK", 0, 72);
+
+	//fulham
+	SetCard("anderson_fulham", "CB", 44, 78);
+	SetCard("asare", "ST", 76, 30);
+	SetCard("bassey", "CB", 56, 78);
+	SetCard("berge", "CDM", 43, 79);
+	SetCard("cairney", "CM", 57, 74);
+	SetCard("castange", "RB", 42, 76);
+	SetCard("chukwueze", "RW", 80, 22);
+	SetCard("diop", "CB", 37, 76);
+	SetCard("iwobi", "LW", 80, 16);
+	SetCard("jimenez", "ST", 77, 36);
+	SetCard("kevin", "LW", 76, 19);
+	SetCard("leno", "GK", 0, 80);
+	SetCard("lukic", "CM", 70, 78);
+	SetCard("muniz", "ST", 75, 37);
+	SetCard("robinson", "LB", 65, 82);
+	SetCard("rowe", "CAM", 77, 42);
+	SetCard("sessegnon", "LB", 66, 75);
+	SetCard("tete", "RB", 48, 77);
+	SetCard("traore_fulham", "RW", 76, 28);
+	SetCard("wilson", "RW", 76, 27);
+
+	//leeds
+	SetCard("aaronson", "CAM", 74, 26);
+	SetCard("ampadu", "CDM", 62, 76);
+	SetCard("bijol", "CB", 30, 77);
+	SetCard("bogle", "RB", 61, 75);
+	SetCard("gnonto", "RW", 74, 25);
+	SetCard("gruev", "CDM", 50, 74);
+	SetCard("gudmundsson", "LB", 49, 77);
+	SetCard("harrison", "LW", 74, 17);
+	SetCard("james_leeds", "RW", 76, 15);
+	SetCard("lewin", "ST", 74, 15);
+	SetCard("longstaff", "CM", 64, 75);
+	SetCard("nmecha", "ST", 76, 60);
+	SetCard("okafor", "LW", 76, 20);
+	SetCard("perri", "GK", 0, 81);
+	SetCard("piroe", "ST", 75, 23);
+	SetCard("ramazani", "LW", 74, 18);
+	SetCard("rodon", "CB", 34, 76);
+	SetCard("stach", "CDM", 60, 79);
+	SetCard("struijk", "CB", 45, 76);
+	SetCard("tanaka", "CM", 76, 66);	
+
+	//liverpool
+	SetCard("alisson", "GK", 0, 89);
+	SetCard("allister", "CAM", 87, 33);
+	SetCard("bradley", "RB", 42, 78);
+	SetCard("chiesa", "RW", 81, 31);
+	SetCard("ekitike", "ST", 83, 26);
+	SetCard("endo", "CM", 79, 54);
+	SetCard("frimpong", "RB", 71, 83);
+	SetCard("gakpo", "LW", 84, 43);
+	SetCard("gomez", "CB", 25, 79);
+	SetCard("gravenberch", "CM", 85, 70);
+	SetCard("isak", "ST", 88, 29);
+	SetCard("jones", "CM", 80, 50);
+	SetCard("kerkez", "LB", 62, 82);
+	SetCard("konate", "CB", 32, 86);
+	SetCard("mamardashvili", "GK", 0, 84);
+	SetCard("roberson", "LB", 65, 82);
+	SetCard("salah", "RW", 91, 34);
+	SetCard("szoboszlai", "CAM", 83, 24);
+	SetCard("van dijk", "CB", 47, 90);
+	SetCard("wirtz", "CAM", 89, 41);
+
+
+	//manchester city
+	SetCard("akanji", "CB", 32, 82);
+	SetCard("ake", "CB", 39, 83);
+	SetCard("cherki", "CAM", 81, 20);
+	SetCard("dias", "CB", 37, 86);
+	SetCard("doku", "LW", 80, 19);
+	SetCard("donnarumma", "GK", 0, 89);
+	SetCard("ederson", "GK", 0, 85);
+	SetCard("foden", "CAM", 85, 26);
+	SetCard("gundogan", "CM", 76, 83);
+	SetCard("gvardiol", "LB", 68, 84);
+	SetCard("haaland", "ST", 90, 63);
+	SetCard("kovacic", "CM", 74, 83);
+	SetCard("marmoush", "ST", 84, 35);
+	SetCard("nouri", "LB", 55, 81);
+	SetCard("nunes", "CM", 63, 79);
+	SetCard("reijnders", "CM", 86, 69);
+	SetCard("rodri", "CDM", 50, 90);
+	SetCard("savio", "RW", 82, 22);
+	SetCard("silva", "CAM", 84, 18);
+	SetCard("stones", "CB", 30, 82);
+
+
+	//manchester united
+	SetCard("bayindir", "GK", 0, 75);
+	SetCard("casimiro", "CDM", 52, 80);
+	SetCard("cunha", "ST", 83, 44);
+	SetCard("dalot", "RB", 69, 79);
+	SetCard("de ligt", "CB", 42, 82);
+	SetCard("diallo", "RW", 79, 20);
+	SetCard("fernandes", "CAM", 87, 34);
+	SetCard("hojlund", "ST", 76, 28);
+	SetCard("lammens", "GK", 0, 78);
+	SetCard("maguire", "CB", 34, 80);
+	SetCard("mainoo", "CM", 65, 77);
+	SetCard("malacia", "LB", 63, 75);
+	SetCard("martinez", "CB", 25, 81);
+	SetCard("mazraoui", "RB", 66, 80);
+	SetCard("mbuemo", "RW", 85, 41);
+	SetCard("mount", "CM", 77, 58);
+	SetCard("sesko", "ST", 80, 32);
+	SetCard("shaw", "LB", 67, 79);
+	SetCard("ugarte", "CDM", 51, 79);
+	SetCard("yoro", "CB", 31, 78);
+
+
+	//newcastle
+	SetCard("barnes", "LW", 80, 20);
+	SetCard("botman", "CB", 40, 82);
+	SetCard("burn", "CB", 34, 79);
+	SetCard("elanga", "RW", 81, 22);
+	SetCard("gordon", "LW", 83, 27);
+	SetCard("hall", "LB", 67, 80);
+	SetCard("joelinton", "CM", 82, 78);
+	SetCard("krafth", "RB", 49, 73);
+	SetCard("lascelles", "CB", 46, 73);
+	SetCard("livramento", "RB", 70, 80);
+	SetCard("murphy", "RW", 81, 25);
+	SetCard("pope", "GK", 0, 81);
+	SetCard("ramsdale", "GK", 0, 77);
+	SetCard("schar", "CB", 32, 82);
+	SetCard("thiaw", "CB", 50, 78);
+	SetCard("tonali", "CM", 74, 86);
+	SetCard("trippier", "RB", 66, 80);
+	SetCard("willock", "CM", 76, 69);
+	SetCard("woltemade", "ST", 79, 40);
+	SetCard("guimaraes", "CDM", 64, 86);
+	
+
+	//nottingham forest
+	SetCard("aina", "RB", 55, 80);
+	SetCard("anderson_forest", "CM", 80, 75);
+	SetCard("bakwa", "RW", 78, 26);
+	SetCard("dominquez", "CM", 66, 79);
+	SetCard("igor_jesus", "ST", 77, 40);
+	SetCard("kalimuendo", "ST", 78, 27);
+	SetCard("luiz", "CM", 49, 80);
+	SetCard("mcatee", "CAM", 76, 25);
+	SetCard("milenkovic", "CB", 53, 83);
+	SetCard("murillo", "CB", 46, 83);
+	SetCard("ndoye", "RW", 79, 30);
+	SetCard("odoi", "LW", 78, 22);
+	SetCard("sangare", "CDM", 58, 77);
+	SetCard("savono", "RB", 38, 75);
+	SetCard("sels", "GK", 0, 83);
+	SetCard("white_forest", "CAM", 82, 38);
+	SetCard("williams", "LB", 67, 78);
+	SetCard("wood", "ST", 82, 34);
+	SetCard("yates", "CM", 77, 68);
+	SetCard("zinchenko", "LB", 70, 77);
+
+	//spurs
+	SetCard("bentancur", "CM", 80, 60);
+	SetCard("bissouma", "CDM", 61, 78);
+	SetCard("danso", "CB", 40, 79);
+	SetCard("de_ven", "CB", 66, 82);
+	SetCard("gray", "RB", 55, 75);
+	SetCard("johnson", "RW", 79, 30);
+	SetCard("kudus", "LW", 80, 31);
+	SetCard("kulusevski", "RW", 83, 50);
+	SetCard("maddison", "CAM", 84, 25);
+	SetCard("muani", "ST", 81, 22);
+	SetCard("palhinha", "CDM", 40, 83);
+	SetCard("porro", "RB", 73, 82);
+	SetCard("richarlison", "ST", 78, 29);
+	SetCard("romero", "CB", 30, 82);
+	SetCard("sarr_spurs", "CM", 79, 40);
+	SetCard("simons", "CAM", 84, 18);
+	SetCard("solanke", "ST", 80, 38);
+	SetCard("spence", "LB", 60, 78);
+	SetCard("udogie", "LB", 47, 80);
+	SetCard("vicario", "GK", 0, 82);
+
+	//sunderland
+	SetCard("adingra", "LW", 76, 25);
+	SetCard("alderete", "CB", 37, 78);
+	SetCard("ballard", "CB", 46, 73);
+	SetCard("brobbey", "ST", 77, 27);
+	SetCard("cirkin", "LB", 47, 72);
+	SetCard("diarra", "CM", 67, 77);
+	SetCard("geertruida", "RB", 68, 78);
+	SetCard("hume", "RB", 52, 74);
+	SetCard("le_fee", "CM", 76, 66);
+	SetCard("masuaku", "LB", 44, 75);
+	SetCard("mayenda", "ST", 73, 33);
+	SetCard("mukiele", "CB", 39, 79);
+	SetCard("neil", "CM", 60, 73);
+	SetCard("patterson", "GK", 0, 73);
+	SetCard("reinildo", "LB", 68, 79);
+	SetCard("roefs", "GK", 0, 74);
+	SetCard("sadiki", "CM", 74, 55);
+	SetCard("talbi", "RW", 73, 26);
+	SetCard("traore_sunderland", "RW", 75, 26);
+	SetCard("xhaka", "CDM", 60, 85);
+
+	//west ham
+
+
+	//wolves
+	
+    }
+}

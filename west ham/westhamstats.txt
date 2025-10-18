@@ -12,8 +12,8 @@ killman - 40/77  cb
 mavropanos - 37/76  cb
 summerville - 76/23 lw       potential
 hermansen - 76   gk
-fernandes - 76/54  cm     POTENTIAL
-igor - 44/76  cb
+fernandes_westham - 76/54  cm     POTENTIAL
+igor_westham - 44/76  cb
 peters - 60/75  rb
 diouf - 55/75  lb
 guilherme - 74/26  rw    potential
